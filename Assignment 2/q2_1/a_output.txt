@@ -1,0 +1,611 @@
+sudhir@sudhir-virtual-machine:~/Downloads/ns-allinone-3.36.1/ns-3.36.1$ ./ns3 run scratch/a.cc
+Consolidate compiler generated dependencies of target scratch_a
+[  0%] Building CXX object scratch/CMakeFiles/scratch_a.dir/a.cc.o
+[  0%] Linking CXX executable ../../build/scratch/ns3.36.1-a-default
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0012s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0012s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.00241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 6.66306 Mbps
+  Throughput: 6.66306 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0022s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0022s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.00441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 3.64067 Mbps
+  Throughput: 3.64067 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0032s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0032s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.00641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 2.50459 Mbps
+  Throughput: 2.50459 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0042s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0042s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.00841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 1.9089 Mbps
+  Throughput: 1.9089 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0052s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0052s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.01041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 1.54213 Mbps
+  Throughput: 1.54213 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0062s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0062s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.01241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 1.29358 Mbps
+  Throughput: 1.29358 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0072s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0072s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.01441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 1.11403 Mbps
+  Throughput: 1.11403 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0082s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0082s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.01641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.97825 Mbps
+  Throughput: 0.97825 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0092s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0092s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.01841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.871971 Mbps
+  Throughput: 0.871971 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0102s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0102s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.786522 Mbps
+  Throughput: 0.786522 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0112s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0112s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.716326 Mbps
+  Throughput: 0.716326 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0122s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0122s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.657633 Mbps
+  Throughput: 0.657633 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0132s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0132s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.607829 Mbps
+  Throughput: 0.607829 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0142s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0142s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.02841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.565038 Mbps
+  Throughput: 0.565038 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0152s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0152s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.03041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.527876 Mbps
+  Throughput: 0.527876 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0162s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0162s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.03241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.4953 Mbps
+  Throughput: 0.4953 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0172s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0172s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.03441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.466511 Mbps
+  Throughput: 0.466511 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0182s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0182s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.03641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.440885 Mbps
+  Throughput: 0.440885 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0192s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0192s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.03841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.417928 Mbps
+  Throughput: 0.417928 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0202s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0202s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.04041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.397243 Mbps
+  Throughput: 0.397243 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0212s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0212s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.04241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.378509 Mbps
+  Throughput: 0.378509 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0222s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0222s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.04441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.361463 Mbps
+  Throughput: 0.361463 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0232s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0232s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.04641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.345885 Mbps
+  Throughput: 0.345885 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0242s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0242s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.04841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.331595 Mbps
+  Throughput: 0.331595 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0252s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0252s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.05041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.318439 Mbps
+  Throughput: 0.318439 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0262s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0262s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.05241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.306287 Mbps
+  Throughput: 0.306287 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0272s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0272s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.05441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.295028 Mbps
+  Throughput: 0.295028 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0282s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0282s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.05641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.284568 Mbps
+  Throughput: 0.284568 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0292s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0292s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.05841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.274824 Mbps
+  Throughput: 0.274824 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0302s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0302s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.06041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.265725 Mbps
+  Throughput: 0.265725 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0312s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0312s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.06241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.25721 Mbps
+  Throughput: 0.25721 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0322s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0322s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.06441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.249223 Mbps
+  Throughput: 0.249223 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0332s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0332s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.06641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.241717 Mbps
+  Throughput: 0.241717 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0342s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0342s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.06841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.234651 Mbps
+  Throughput: 0.234651 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0352s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0352s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.07041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.227985 Mbps
+  Throughput: 0.227985 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0362s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0362s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.07241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.221688 Mbps
+  Throughput: 0.221688 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0372s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0372s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.07441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.215729 Mbps
+  Throughput: 0.215729 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0382s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0382s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.07641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.210083 Mbps
+  Throughput: 0.210083 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0392s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0392s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.07841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.204724 Mbps
+  Throughput: 0.204724 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0402s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0402s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.08041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.199632 Mbps
+  Throughput: 0.199632 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0412s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0412s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.08241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.194787 Mbps
+  Throughput: 0.194787 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0422s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0422s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.08441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.190172 Mbps
+  Throughput: 0.190172 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0432s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0432s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.08641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.18577 Mbps
+  Throughput: 0.18577 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0442s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0442s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.08841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.181568 Mbps
+  Throughput: 0.181568 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0452s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0452s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.09041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.177551 Mbps
+  Throughput: 0.177551 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0462s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0462s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.09241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.173708 Mbps
+  Throughput: 0.173708 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0472s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0472s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.09441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.170029 Mbps
+  Throughput: 0.170029 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0482s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0482s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.09641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.166501 Mbps
+  Throughput: 0.166501 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0492s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0492s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.09841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.163117 Mbps
+  Throughput: 0.163117 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0502s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0502s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.10041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.159868 Mbps
+  Throughput: 0.159868 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0512s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0512s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.10241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.156746 Mbps
+  Throughput: 0.156746 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0522s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0522s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.10441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.153744 Mbps
+  Throughput: 0.153744 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0532s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0532s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.10641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.150854 Mbps
+  Throughput: 0.150854 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0542s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0542s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.10841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.148071 Mbps
+  Throughput: 0.148071 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0552s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0552s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.11041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.145389 Mbps
+  Throughput: 0.145389 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0562s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0562s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.11241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.142802 Mbps
+  Throughput: 0.142802 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0572s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0572s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.11441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.140306 Mbps
+  Throughput: 0.140306 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0582s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0582s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.11641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.137895 Mbps
+  Throughput: 0.137895 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0592s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0592s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.11841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.135566 Mbps
+  Throughput: 0.135566 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0602s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0602s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.12041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.133314 Mbps
+  Throughput: 0.133314 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0612s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0612s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.12241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.131136 Mbps
+  Throughput: 0.131136 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0622s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0622s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.12441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.129028 Mbps
+  Throughput: 0.129028 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0632s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0632s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.12641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.126986 Mbps
+  Throughput: 0.126986 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0642s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0642s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.12841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.125009 Mbps
+  Throughput: 0.125009 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0652s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0652s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.13041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.123091 Mbps
+  Throughput: 0.123091 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0662s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0662s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.13241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.121232 Mbps
+  Throughput: 0.121232 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0672s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0672s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.13441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.119428 Mbps
+  Throughput: 0.119428 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0682s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0682s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.13641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.117677 Mbps
+  Throughput: 0.117677 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0692s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0692s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.13841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.115977 Mbps
+  Throughput: 0.115977 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0702s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0702s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.14041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.114325 Mbps
+  Throughput: 0.114325 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0712s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0712s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.14241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.112719 Mbps
+  Throughput: 0.112719 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0722s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0722s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.14441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.111158 Mbps
+  Throughput: 0.111158 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0732s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0732s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.14641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.10964 Mbps
+  Throughput: 0.10964 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0742s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0742s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.14841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.108162 Mbps
+  Throughput: 0.108162 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0752s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0752s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.15041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.106724 Mbps
+  Throughput: 0.106724 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0762s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0762s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.15241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.105323 Mbps
+  Throughput: 0.105323 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0772s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0772s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.15441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.103959 Mbps
+  Throughput: 0.103959 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0782s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0782s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.15641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.10263 Mbps
+  Throughput: 0.10263 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0792s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0792s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.15841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.101334 Mbps
+  Throughput: 0.101334 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0802s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0802s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.16041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.100071 Mbps
+  Throughput: 0.100071 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0812s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0812s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.16241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0988383 Mbps
+  Throughput: 0.0988383 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0822s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0822s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.16441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.097636 Mbps
+  Throughput: 0.097636 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0832s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0832s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.16641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0964625 Mbps
+  Throughput: 0.0964625 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0842s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0842s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.16841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.095317 Mbps
+  Throughput: 0.095317 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0852s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0852s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.17041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0941983 Mbps
+  Throughput: 0.0941983 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0862s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0862s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.17241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0931055 Mbps
+  Throughput: 0.0931055 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0872s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0872s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.17441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0920379 Mbps
+  Throughput: 0.0920379 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0882s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0882s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.17641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0909944 Mbps
+  Throughput: 0.0909944 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0892s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0892s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.17841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0899743 Mbps
+  Throughput: 0.0899743 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0902s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0902s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.18041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0889769 Mbps
+  Throughput: 0.0889769 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0912s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0912s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.18241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0880013 Mbps
+  Throughput: 0.0880013 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0922s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0922s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.18441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0870469 Mbps
+  Throughput: 0.0870469 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0932s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0932s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.18641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.086113 Mbps
+  Throughput: 0.086113 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0942s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0942s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.18841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0851989 Mbps
+  Throughput: 0.0851989 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0952s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0952s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.19041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.084304 Mbps
+  Throughput: 0.084304 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0962s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0962s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.19241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0834277 Mbps
+  Throughput: 0.0834277 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0972s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0972s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.19441s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0825694 Mbps
+  Throughput: 0.0825694 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0982s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0982s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.19641s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0817286 Mbps
+  Throughput: 0.0817286 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.0992s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.0992s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.19841s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0809048 Mbps
+  Throughput: 0.0809048 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.1002s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.1002s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.20041s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0800974 Mbps
+  Throughput: 0.0800974 Mbps
+At time +2s client sent 1024 bytes to 10.1.1.2 port 9
+At time +2.1012s server received 1024 bytes from 10.1.1.1 port 49153
+At time +2.1012s server sent 1024 bytes to 10.1.1.1 port 49153
+At time +2.20241s client received 1024 bytes from 10.1.1.2 port 9
+  Throughput: 0.0793059 Mbps
+  Throughput: 0.0793059 Mbps
+

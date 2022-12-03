@@ -1,0 +1,69 @@
+Frame 53: 74 bytes on wire (592 bits), 74 bytes captured (592 bits) on interface \Device\NPF_{E23C3E3E-3B07-48D8-BBE3-6EEC612894EB}, id 0
+    Interface id: 0 (\Device\NPF_{E23C3E3E-3B07-48D8-BBE3-6EEC612894EB})
+        Interface name: \Device\NPF_{E23C3E3E-3B07-48D8-BBE3-6EEC612894EB}
+        Interface description: Wi-Fi
+    Encapsulation type: Ethernet (1)
+    Arrival Time: Oct 14, 2022 21:04:41.053561000 India Standard Time
+    [Time shift for this packet: 0.000000000 seconds]
+    Epoch Time: 1665761681.053561000 seconds
+    [Time delta from previous captured frame: 0.042659000 seconds]
+    [Time delta from previous displayed frame: 0.000000000 seconds]
+    [Time since reference or first frame: 2.131616000 seconds]
+    Frame Number: 53
+    Frame Length: 74 bytes (592 bits)
+    Capture Length: 74 bytes (592 bits)
+    [Frame is marked: False]
+    [Frame is ignored: False]
+    [Protocols in frame: eth:ethertype:ip:icmp:data]
+    [Coloring Rule Name: ICMP]
+    [Coloring Rule String: icmp || icmpv6]
+
+
+
+Ethernet II, Src: CloudNet_ae:8e:69 (f8:89:d2:ae:8e:69), Dst: All-HSRP-routers_62 (00:00:0c:07:ac:62)
+    Destination: All-HSRP-routers_62 (00:00:0c:07:ac:62)
+        Address: All-HSRP-routers_62 (00:00:0c:07:ac:62)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Source: CloudNet_ae:8e:69 (f8:89:d2:ae:8e:69)
+        Address: CloudNet_ae:8e:69 (f8:89:d2:ae:8e:69)
+        .... ..0. .... .... .... .... = LG bit: Globally unique address (factory default)
+        .... ...0 .... .... .... .... = IG bit: Individual address (unicast)
+    Type: IPv4 (0x0800)
+
+
+
+Internet Protocol Version 4, Src: 10.2.73.187, Dst: 103.224.182.242
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+        0000 00.. = Differentiated Services Codepoint: Default (0)
+        .... ..00 = Explicit Congestion Notification: Not ECN-Capable Transport (0)
+    Total Length: 60
+    Identification: 0xcdbf (52671)
+    Flags: 0x00
+        0... .... = Reserved bit: Not set
+        .0.. .... = Don't fragment: Not set
+        ..0. .... = More fragments: Not set
+    ...0 0000 0000 0000 = Fragment Offset: 0
+    Time to Live: 128
+    Protocol: ICMP (1)
+    Header Checksum: 0xfa71 [validation disabled]
+    [Header checksum status: Unverified]
+    Source Address: 10.2.73.187
+    Destination Address: 103.224.182.242
+
+
+Internet Control Message Protocol
+    Type: 8 (Echo (ping) request)
+    Code: 0
+    Checksum: 0x4a0f [correct]
+    [Checksum Status: Good]
+    Identifier (BE): 1 (0x0001)
+    Identifier (LE): 256 (0x0100)
+    Sequence Number (BE): 844 (0x034c)
+    Sequence Number (LE): 19459 (0x4c03)
+    [Response frame: 57]
+    Data (32 bytes)
+        Data: 6162636465666768696a6b6c6d6e6f7071727374757677616263646566676869
+        [Length: 32]
