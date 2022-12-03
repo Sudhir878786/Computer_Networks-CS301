@@ -1,0 +1,4 @@
+Sudhir You need to submit the 
+assignment CS3001.
+Sockets act as bidirectional communications channel where they are endpoints of it.sockets may communicate within the process, between different process and also process on different places.
+A socket is first created and then bound to an address using the bind method. An infinite loop is then entered for serving client requests. The recvfrom method receives a message from the datagram socket and returns not only the message but also the address of the source of the message. EOF
